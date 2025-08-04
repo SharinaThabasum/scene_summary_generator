@@ -1,0 +1,10 @@
+Universal ADB drivers
+https://adb.clockworkmod.com/
+
+Mobile device (fro flexibility)
+droidcam webcam - playstore
+
+DroidCam webcam and OBS camera
+https://www.dev47apps.com/droidcam/windows/
+
+few extensions should be installed (mentioned in README.md) 
